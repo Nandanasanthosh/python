@@ -1,3 +1,2 @@
-# hi
-hi message
-starter project
+Python projects
+#Add any python projects here.
